@@ -1,0 +1,14 @@
+C:\Users\Christopher\Desktop\Uni\Software Methods\Coursework\bikeSystem\bikeSystem\bikeSystem\obj\Debug\bikeSystem.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Desktop\Uni\Software Methods\Coursework\bikeSystem\bikeSystem\bikeSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Christopher\Desktop\Uni\Software Methods\Coursework\bikeSystem\bikeSystem\bikeSystem\obj\Debug\App.g.cs
+C:\Users\Christopher\Desktop\Uni\Software Methods\Coursework\bikeSystem\bikeSystem\bikeSystem\obj\Debug\bikeSystem_MarkupCompile.cache
+C:\Users\Christopher\Desktop\Uni\Software Methods\Coursework\bikeSystem\bikeSystem\bikeSystem\obj\Debug\bikeSystem_MarkupCompile.lref
+C:\Users\Christopher\Desktop\Uni\Software Methods\Coursework\bikeSystem\bikeSystem\bikeSystem\bin\Debug\bikeSystem.exe.config
+C:\Users\Christopher\Desktop\Uni\Software Methods\Coursework\bikeSystem\bikeSystem\bikeSystem\bin\Debug\bikeSystem.exe
+C:\Users\Christopher\Desktop\Uni\Software Methods\Coursework\bikeSystem\bikeSystem\bikeSystem\bin\Debug\bikeSystem.pdb
+C:\Users\Christopher\Desktop\Uni\Software Methods\Coursework\bikeSystem\bikeSystem\bikeSystem\obj\Debug\MainWindow.baml
+C:\Users\Christopher\Desktop\Uni\Software Methods\Coursework\bikeSystem\bikeSystem\bikeSystem\obj\Debug\bikeSystem.g.resources
+C:\Users\Christopher\Desktop\Uni\Software Methods\Coursework\bikeSystem\bikeSystem\bikeSystem\obj\Debug\bikeSystem.Properties.Resources.resources
+C:\Users\Christopher\Desktop\Uni\Software Methods\Coursework\bikeSystem\bikeSystem\bikeSystem\obj\Debug\bikeSystem.csproj.GenerateResource.Cache
+C:\Users\Christopher\Desktop\Uni\Software Methods\Coursework\bikeSystem\bikeSystem\bikeSystem\obj\Debug\bikeSystem.exe
+C:\Users\Christopher\Desktop\Uni\Software Methods\Coursework\bikeSystem\bikeSystem\bikeSystem\obj\Debug\bikeSystem.pdb
